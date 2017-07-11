@@ -1,5 +1,6 @@
 /xcode/
 /build/
+/builds/
 /build-*/
 .DS_Store
 CMakeCache.txt
@@ -16,3 +17,8 @@ CMakeFiles/
 /test/gflags_unittest-main.cc
 /packages/
 CMakeLists.txt.user
+/bazel-bin
+/bazel-genfiles
+/bazel-gflags
+/bazel-out
+/bazel-testlogs
